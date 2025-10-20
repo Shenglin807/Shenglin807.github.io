@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/Shenglin807.github.io/#-xl"
+    url: "/#-xl"
 
   - title: "Publication"
-    url: "/Shenglin807.github.io/#-lwzl"
+    url: "/#-lwzl"
 
   - title: "Award"
-    url: "/Shenglin807.github.io/#-ryjx"
+    url: "/#-ryjx"
 
   - title: "Conference"
-    url: "/Shenglin807.github.io/#-xshy"
+    url: "/#-xshy"
 
 #  - title: "工作实习"
 #    url: "/Shenglin807.github.io/#-gzsx"
