@@ -44,10 +44,10 @@ My research interests are mainly focused on：
 
 [//]: # (- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 &#40;20&#41;: 7362. &#40;JCR:Q1; IF:3.748&#41;[[网页]]&#40;https://dx.doi.org/10.3390/ma15207362&#41; [[预览]]&#40;https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf&#41; [[下载]]&#40;/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf&#41;)
 
-- `Shenglin Liu`, Qian Ge*, Ke Han*, Daisuke Fukuda, and Takao Dantsuji. Mechanism design for coordinating vehicle-based mobile sensing tasks within the ride-hailing platform. *Transportation Research Part C: Emerging Technologies*, 176: 105151, 2025.
-- Binzhou Yang, Ke Han*, `Shenglin Liu`, and Ruijie Li. Joint matching and pricing for taxi drive-by sensing. *Transportation Research Part E: Logistics and Transportation Review*, 197: 104071, 2025.
-- Wen Ji, `Shenglin Liu`, Ke Han*, Yanfeng Li, and Tao Liu. The Share-a-Ride Problem with mixed ride-hailing and logistic vehicles. *Transportation Research Part E: Logistics and Transportation Review*, 192: 103758, 2024.
-- Ke Han*, Wen Ji, Marco Nie, Zhexian Li, and `Shenglin Liu`. Exploring the sensing power of mixed vehicle fleets. *Transportation Research Part B: Methodological*, 190: 103066, 2024.
+- `Shenglin Liu`, Qian Ge\*, Ke Han\*, Daisuke Fukuda, and Takao Dantsuji. Mechanism design for coordinating vehicle-based mobile sensing tasks within the ride-hailing platform. *Transportation Research Part C: Emerging Technologies*, 176: 105151, 2025.
+- Binzhou Yang, Ke Han\*, `Shenglin Liu`, and Ruijie Li. Joint matching and pricing for taxi drive-by sensing. *Transportation Research Part E: Logistics and Transportation Review*, 197: 104071, 2025.
+- Wen Ji, `Shenglin Liu`, Ke Han\*, Yanfeng Li, and Tao Liu. The Share-a-Ride Problem with mixed ride-hailing and logistic vehicles. *Transportation Research Part E: Logistics and Transportation Review*, 192: 103758, 2024.
+- Ke Han\*, Wen Ji, Marco Nie, Zhexian Li, and `Shenglin Liu`. Exploring the sensing power of mixed vehicle fleets. *Transportation Research Part B: Methodological*, 190: 103066, 2024.
 
 
 <span class='anchor' id='-ryjx'></span>
