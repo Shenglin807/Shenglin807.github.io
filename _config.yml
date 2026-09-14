@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Shenglin Liu(刘盛林)"
 description              : "A PhD student majoring in Management Science and Engineering."
-repository               : "Shenglin807/ShenglinLiu.github.io"
+url                      : "https://shenglin807.github.io"
+baseurl                  : ""
+repository               : "Shenglin807/Shenglin807.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -29,7 +31,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RKEBxykAAAAJ&hl=zh-CN"
   email            : "Shenglinliu@mail.nwpu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Shenglin-Liu-4"
+  researchgate     : "https://www.researchgate.net/profile/Shenglin-Liu-4"
   uri              :
   bitbucket        :
   codepen          :
