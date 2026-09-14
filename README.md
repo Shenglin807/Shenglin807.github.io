@@ -19,7 +19,7 @@ AcadHomepage
     <br>
 </p>
 
-The author uses this template as a reference, and here are some examples recommended by the original author:
+The author appreciates contributions of the original author, and uses this template as a reference. Here are some examples recommended by the original author:
 - [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
 - [Personal Homepage of the author](https://rayeren.github.io/)
 
